@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["watching over cøsmo","be sure to bump <3","love you all"];
+const statusMessages = ["Monitoring the Vanguard Protection Communications.","Listening to Berzikov yell at Fray for the 50th time.","Glory to the IRF!"];
 
 
 let currentIndex = 0;
