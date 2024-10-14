@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Monitoring the Vanguard Protection Communications.","Listening to Berzikov yell at Fray for the 50th time.","Glory to the IRF!"];
+const statusMessages = ["[DATA DOWNLOADING]","[DATA ENCRYPTING]","[DATA SECURED]"];
 
 
 let currentIndex = 0;
